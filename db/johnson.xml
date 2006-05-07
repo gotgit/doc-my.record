@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="GB2312"?>
+<sect1 id="johnson-diary"><title>Johnson 游泳日记</title>
+
+<segmentedlist><title>备忘</title>
+<segtitle>日期</segtitle>
+<segtitle>事件</segtitle>
+<seglistitem><seg>2003/04/20 - 2003/06/20</seg><seg>游泳馆由于 SARS 封闭两个月，也许我是SARS中够胆大的一个家伙 8-)</seg></seglistitem>
+</segmentedlist>
+
+<segmentedlist><title>Johnson 游泳日记</title>
+<segtitle>日期</segtitle>
+<segtitle>50m 爬泳</segtitle>
+<segtitle>50m 蛙泳</segtitle>
+<segtitle>100m爬泳</segtitle>
+<segtitle>100m蛙泳</segtitle>
+<segtitle>1000m</segtitle>
+<segtitle>训练法</segtitle>
+<seglistitem><seg>2003/08/28</seg><seg>38.39</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg></seg></seglistitem>
+<seglistitem><seg>2003/08/26</seg><seg>40.20</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg></seg></seglistitem>
+<seglistitem><seg>2003/08/12</seg><seg>48(池内出发，自测)</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg></seg></seglistitem>
+<seglistitem><seg>2003/07/24</seg><seg>46</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg></seg></seglistitem>
+<seglistitem><seg>2003/07/22</seg><seg>42.70</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>变速1</seg></seglistitem>
+<seglistitem><seg>2003/07/15</seg><seg>42.27</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>变道</seg></seglistitem>
+<seglistitem><seg>2003/07/10</seg><seg>42.57</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>变道</seg></seglistitem>
+<seglistitem><seg>2003/07/08</seg><seg>48.33</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>持续1</seg></seglistitem>
+<seglistitem><seg>2003/04/03</seg><seg>49.58</seg><seg>58</seg><seg></seg><seg></seg><seg></seg><seg>变速1</seg></seglistitem>
+<seglistitem><seg>2003/03/31</seg><seg>52.83</seg><seg>58</seg><seg></seg><seg></seg><seg></seg><seg>变速1</seg></seglistitem>
+<seglistitem><seg>2003/03/24</seg><seg>56.98</seg><seg>59.66</seg><seg></seg><seg></seg><seg></seg></seglistitem>
+<seglistitem><seg>2003/03/19</seg><seg>53.09</seg><seg>55.20</seg><seg></seg><seg></seg><seg>25:47</seg></seglistitem>
+<seglistitem><seg>2003/03/12</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>33:04(1100?)</seg></seglistitem>
+<seglistitem><seg>2003/03/04</seg><seg>53.45</seg><seg></seg><seg></seg><seg></seg><seg></seg></seglistitem>
+<seglistitem><seg>2003/01/20</seg><seg>46.39</seg><seg>55.78</seg><seg></seg><seg></seg><seg></seg></seglistitem>
+<seglistitem><seg>2003/01/13</seg><seg>47.76</seg><seg>62(hat off)</seg><seg></seg><seg></seg><seg>25:</seg></seglistitem>
+<seglistitem><seg>2003/01/8</seg><seg>50.08</seg><seg>53.87</seg><seg></seg><seg></seg><seg>26:17</seg></seglistitem>
+<seglistitem><seg>2002/12/26</seg><seg>51.xx</seg><seg>55.45</seg><seg></seg><seg>2:04.85</seg><seg>20:29.14(800)</seg></seglistitem>
+<seglistitem><seg>2002/12/23</seg><seg>51</seg><seg>56</seg><seg></seg><seg>2:04</seg><seg></seg></seglistitem>
+<seglistitem><seg>2002/12/19</seg><seg>52</seg><seg>60</seg><seg></seg><seg>2:04</seg><seg>25:</seg></seglistitem>
+</segmentedlist>
+</sect1>

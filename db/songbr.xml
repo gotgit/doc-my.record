@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="GB2312"?>
+<sect1 id="oldsong-diary"><title>OldSong 游泳日记</title>
+
+<segmentedlist><title>老宋游泳日记</title>
+<segtitle>日期</segtitle>
+<segtitle>50m 爬泳</segtitle>
+<segtitle>50m 蛙泳</segtitle>
+<segtitle>100m爬泳</segtitle>
+<segtitle>100m蛙泳</segtitle>
+<segtitle>1000m</segtitle>
+<segtitle>训练法</segtitle>
+<seglistitem><seg>2003/08/28</seg><seg>44.46</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg></seg></seglistitem>
+<seglistitem><seg>2003/07/24</seg><seg>42.62</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg></seg></seglistitem>
+<seglistitem><seg>2003/07/22</seg><seg>46.33</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>变速1</seg></seglistitem>
+<seglistitem><seg>2003/07/15</seg><seg>47.28</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>变道</seg></seglistitem>
+<seglistitem><seg>2003/07/10</seg><seg>46.64</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>变道</seg></seglistitem>
+<seglistitem><seg>2003/07/08</seg><seg>49.57</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>持续1</seg></seglistitem>
+<seglistitem><seg>2003/04/03</seg><seg>49.39</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>变速1</seg></seglistitem>
+<seglistitem><seg>2003/03/31</seg><seg></seg><seg></seg><seg>2:13:50</seg><seg></seg><seg>24:15</seg><seg>变速1</seg></seglistitem>
+<seglistitem><seg>2003/03/28</seg><seg></seg><seg></seg><seg>2:15:75</seg><seg>1:55:00</seg><seg>24:15</seg></seglistitem>
+<seglistitem><seg>2003/03/24</seg><seg>47.51</seg><seg>50.08</seg><seg></seg><seg></seg><seg></seg></seglistitem>
+<seglistitem><seg>2003/03/19</seg><seg>51.03</seg><seg></seg><seg></seg><seg></seg><seg>24:50</seg></seglistitem>
+<seglistitem><seg>2003/03/04</seg><seg>56.89</seg><seg></seg><seg></seg><seg></seg><seg></seg></seglistitem>
+<seglistitem><seg>2003/01/20</seg><seg>48.51</seg><seg>53.35</seg><seg></seg><seg></seg><seg></seg></seglistitem>
+<seglistitem><seg>2003/01/13</seg><seg>46.51</seg><seg></seg><seg></seg><seg>2:30</seg><seg>23:</seg></seglistitem>
+<seglistitem><seg>2003/01/8</seg><seg>46.08</seg><seg>48.58</seg><seg></seg><seg></seg><seg>24:17</seg></seglistitem>
+<seglistitem><seg>2002/12/26</seg><seg>49.76</seg><seg>49.77</seg><seg></seg><seg>1:50.38</seg><seg>18:43.38(800)</seg></seglistitem>
+<seglistitem><seg>2002/12/23</seg><seg>52</seg><seg></seg><seg></seg><seg></seg><seg></seg></seglistitem>
+<seglistitem><seg>2002/12/19</seg><seg>55</seg><seg>5?</seg><seg></seg><seg>1:5?</seg><seg></seg></seglistitem>
+</segmentedlist>
+</sect1>
