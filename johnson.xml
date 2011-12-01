@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="GB2312"?>
-<sect1 id="johnson-diary"><title>Johnson ÓÎÓ¾ÈÕ¼Ç</title>
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="johnson-diary"><title>Johnson æ¸¸æ³³æ—¥è®°</title>
 
-<segmentedlist><title>±¸Íü</title>
-<segtitle>ÈÕÆÚ</segtitle>
-<segtitle>ÊÂ¼þ</segtitle>
-<seglistitem><seg>2003/04/20 - 2003/06/20</seg><seg>ÓÎÓ¾¹ÝÓÉÓÚ SARS ·â±ÕÁ½¸öÔÂ£¬Ò²ÐíÎÒÊÇSARSÖÐ¹»µ¨´óµÄÒ»¸ö¼Ò»ï 8-)</seg></seglistitem>
+<segmentedlist><title>å¤‡å¿˜</title>
+<segtitle>æ—¥æœŸ</segtitle>
+<segtitle>äº‹ä»¶</segtitle>
+<seglistitem><seg>2003/04/20 - 2003/06/20</seg><seg>æ¸¸æ³³é¦†ç”±äºŽ SARS å°é—­ä¸¤ä¸ªæœˆï¼Œä¹Ÿè®¸æˆ‘æ˜¯SARSä¸­å¤Ÿèƒ†å¤§çš„ä¸€ä¸ªå®¶ä¼™ 8-)</seg></seglistitem>
 </segmentedlist>
 
-<segmentedlist><title>Johnson ÓÎÓ¾ÈÕ¼Ç</title>
-<segtitle>ÈÕÆÚ</segtitle>
-<segtitle>50m ÅÀÓ¾</segtitle>
-<segtitle>50m ÍÜÓ¾</segtitle>
-<segtitle>100mÅÀÓ¾</segtitle>
-<segtitle>100mÍÜÓ¾</segtitle>
+<segmentedlist><title>Johnson æ¸¸æ³³æ—¥è®°</title>
+<segtitle>æ—¥æœŸ</segtitle>
+<segtitle>50m çˆ¬æ³³</segtitle>
+<segtitle>50m è›™æ³³</segtitle>
+<segtitle>100mçˆ¬æ³³</segtitle>
+<segtitle>100mè›™æ³³</segtitle>
 <segtitle>1000m</segtitle>
-<segtitle>ÑµÁ··¨</segtitle>
+<segtitle>è®­ç»ƒæ³•</segtitle>
 <seglistitem><seg>2003/08/28</seg><seg>38.39</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg></seg></seglistitem>
 <seglistitem><seg>2003/08/26</seg><seg>40.20</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg></seg></seglistitem>
-<seglistitem><seg>2003/08/12</seg><seg>48(³ØÄÚ³ö·¢£¬×Ô²â)</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg></seg></seglistitem>
+<seglistitem><seg>2003/08/12</seg><seg>48(æ± å†…å‡ºå‘ï¼Œè‡ªæµ‹)</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg></seg></seglistitem>
 <seglistitem><seg>2003/07/24</seg><seg>46</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg></seg></seglistitem>
-<seglistitem><seg>2003/07/22</seg><seg>42.70</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>±äËÙ1</seg></seglistitem>
-<seglistitem><seg>2003/07/15</seg><seg>42.27</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>±äµÀ</seg></seglistitem>
-<seglistitem><seg>2003/07/10</seg><seg>42.57</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>±äµÀ</seg></seglistitem>
-<seglistitem><seg>2003/07/08</seg><seg>48.33</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>³ÖÐø1</seg></seglistitem>
-<seglistitem><seg>2003/04/03</seg><seg>49.58</seg><seg>58</seg><seg></seg><seg></seg><seg></seg><seg>±äËÙ1</seg></seglistitem>
-<seglistitem><seg>2003/03/31</seg><seg>52.83</seg><seg>58</seg><seg></seg><seg></seg><seg></seg><seg>±äËÙ1</seg></seglistitem>
+<seglistitem><seg>2003/07/22</seg><seg>42.70</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>å˜é€Ÿ1</seg></seglistitem>
+<seglistitem><seg>2003/07/15</seg><seg>42.27</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>å˜é“</seg></seglistitem>
+<seglistitem><seg>2003/07/10</seg><seg>42.57</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>å˜é“</seg></seglistitem>
+<seglistitem><seg>2003/07/08</seg><seg>48.33</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>æŒç»­1</seg></seglistitem>
+<seglistitem><seg>2003/04/03</seg><seg>49.58</seg><seg>58</seg><seg></seg><seg></seg><seg></seg><seg>å˜é€Ÿ1</seg></seglistitem>
+<seglistitem><seg>2003/03/31</seg><seg>52.83</seg><seg>58</seg><seg></seg><seg></seg><seg></seg><seg>å˜é€Ÿ1</seg></seglistitem>
 <seglistitem><seg>2003/03/24</seg><seg>56.98</seg><seg>59.66</seg><seg></seg><seg></seg><seg></seg></seglistitem>
 <seglistitem><seg>2003/03/19</seg><seg>53.09</seg><seg>55.20</seg><seg></seg><seg></seg><seg>25:47</seg></seglistitem>
 <seglistitem><seg>2003/03/12</seg><seg></seg><seg></seg><seg></seg><seg></seg><seg>33:04(1100?)</seg></seglistitem>

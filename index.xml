@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GB2312"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.2//EN"   
 	"http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd" [
 <!ENTITY author "<ulink url='mailto:johnson.AT.worldhello.net'>Johnson</ulink>">
@@ -8,9 +8,9 @@
 ]>
 <article id="index">
 <articleinfo>
-<title>��Ӿ�ռ�</title>
-<author><firstname>��</firstname><surname>��</surname></author>
-<author><firstname>����</firstname><surname>��</surname></author>
+<title>游泳日记</title>
+<author><firstname>鑫</firstname><surname>蒋</surname></author>
+<author><firstname>伯润</firstname><surname>宋</surname></author>
 <affiliation>
 <orgname>&orgname;</orgname>
 <address><email>johnson.AT.worldhello.net</email></address>
@@ -19,15 +19,15 @@
 <revision>
 <revnumber>0.2</revnumber>
 <date>2003/3/30</date>
-<authorinitials>�β���</authorinitials>
+<authorinitials>宋伯润</authorinitials>
 <revremark>
-�Ƽ���ѧ����Ӿѵ������
+推荐科学的游泳训练方法
 </revremark>
 </revision>
 <revision>
 <revnumber>0.1</revnumber>
 <date>2003/1/8</date>
-<authorinitials>����</authorinitials>
+<authorinitials>蒋鑫</authorinitials>
 <revremark>
 maintain using DocBook format.
 </revremark>
@@ -35,7 +35,7 @@ maintain using DocBook format.
 </revhistory>
 <abstract>
 <para>
-��ȥ��Ӿ�ɣ�����ˢ���Լ��ļ�¼��ȥ��ս���ޡ���ѧ��ѵ���ƻ�������ͳ�֮�Ժ��ǳ־ö����Ĺؼ���
+多去游泳吧，不断刷新自己的记录，去挑战极限。科学的训练计划、热情和持之以恒是持久锻炼的关键。
 </para>
 <para>
 &author;, $Id: index.xml,v 1.32 2003/07/13 10:42:56 jiangxin Exp $
@@ -43,109 +43,109 @@ maintain using DocBook format.
 </abstract>
 </articleinfo>
 
-<sect1 id="training"><title>��ѧ��ѵ������</title>
+<sect1 id="training"><title>科学的训练方法</title>
 <para>
-�������һ���飬ԭ����Ӿ��ѵ����ʹ��ҵ��ģ�Ҳ��Ҫ��ѧ�İ���ѵ������������ԭ����ѵ���������������¿�ѭ�������ǳ����κ���һЩ�����ϰ�������רҵ���۹⿴������������ʽѵ��ǰ���������ˣ����������ڸ������ٺ��ξࡣ
+最近看了一本书，原来游泳的训练即使是业余的，也需要科学的安排训练方法。我们原来的训练，基本上是无章可循，仅仅是持续游和做一些冲刺练习，如果以专业的眼光看来，不过是正式训练前的热身罢了，根本无助于改善游速和游距。
 </para>
 <para>
-�ڿ����������ġ���Ӿ�¿�ѧ��һ���У�����������ѵ��������
+在康西尔曼著的《游泳新科学》一书中，介绍了五种训练方法：
 </para>
 
-<segmentedlist><title>��Ӿ������ѵ������</title>
+<segmentedlist><title>游泳的五种训练方法</title>
 <?dbhtml list-presentation="table"?>
-<segtitle>ѵ������</segtitle>
-<segtitle>����ϵͳ</segtitle>
-<segtitle>������չ</segtitle>
-<seglistitem><seg>����ѵ��</seg><seg>��������</seg><seg>����</seg></seglistitem>
-<seglistitem><seg>�������ѵ��</seg><seg>�������ú�һ���ֽͽ����</seg><seg>�����������ٶ�</seg></seglistitem>
-<seglistitem><seg>��Ъ��ѵ��</seg><seg>�������úͽͽ����</seg><seg>�����������ٶ�</seg></seglistitem>
-<seglistitem><seg>Ŀ���趨ѵ��</seg><seg>�ͽ���̡����ἡ�ᡢһ������������</seg><seg>�����ٶȡ���������������</seg></seglistitem>
-<seglistitem><seg>�̳�ѵ��</seg><seg>���ἡ�ᡢ�ͽ����</seg><seg>�����ٶȡ���������</seg></seglistitem>
+<segtitle>训练种类</segtitle>
+<segtitle>能量系统</segtitle>
+<segtitle>能力发展</segtitle>
+<seglistitem><seg>持续训练</seg><seg>氧化作用</seg><seg>耐力</seg></seglistitem>
+<seglistitem><seg>任意变速训练</seg><seg>氧化作用和一部分酵解过程</seg><seg>耐力、持续速度</seg></seglistitem>
+<seglistitem><seg>间歇性训练</seg><seg>氧化作用和酵解过程</seg><seg>耐力、持续速度</seg></seglistitem>
+<seglistitem><seg>目标设定训练</seg><seg>酵解过程、磷酸肌酸、一部分氧化作用</seg><seg>持续速度、肌肉力量、耐力</seg></seglistitem>
+<seglistitem><seg>短冲训练</seg><seg>磷酸肌酸、酵解过程</seg><seg>爆发速度、肌肉力量</seg></seglistitem>
 </segmentedlist>
 
 <itemizedlist>
 <listitem>
 <para>
-����ѵ��
+持续训练
 </para>
 <para>
-�εľ���ϳ����ٶ����У�̫���Ͳ��ܱ����Եļ���������лϵͳ�����������������л�������Ӷ�����������ŵ���������ѵ���������������е��ˡ�
+游的距离较长，速度适中（太慢就不能本质性的激活有氧代谢系统）。提高人体有氧代谢能力，从而提高耐力。优点在于这种训练方法适用于所有的人。
 </para>
 <para>
-ȱ�㣺��������ٶ�û�ж�����ã����̵��������
+缺点：对于提高速度没有多大作用，过程单调、枯燥。
 </para>
 </listitem>
 <listitem>
 <para>
-�������ѵ��
+任意变速训练
 </para>
 <para>
-����ѵ�����ǶԳ���ѵ������һ�ֲ��䡣ͨ������������Ӿѵ����������ǿѵ����Ȥζ�ԡ�Ҳ���������Ķ�ʱ��Ŀ�������ͨ���ͽ���̻���������Ӷ���߳����ٶȡ�
+这种训练法是对持续训练法的一种补充。通过快慢相间的游泳训练，可以增强训练的趣味性。也可以在相间的短时间的快速游中通过酵解过程获得能量，从而提高持续速度。
 </para>
 <para>
-���磺������ѵ������������һ�˿�Ľ�����һ�����ģ��������˿�Ľ����������ģ�ֱ�����˿�Ľ����������ġ���ѵ����ͬ���ʺ����κ��ˡ�
+例如：“梯形训练法”——游一趟快的紧接着一趟慢的，再游两趟快的紧跟两趟慢的，直到四趟快的紧跟四趟满的。该训练法同样适合于任何人。
 </para>
 </listitem>
 
 <listitem>
 <para>
-��Ъ��ѵ��
+间歇性训练
 </para>
 <para>
-������ϰ֮����һ���ϸ������Ϣʱ��ļ�Ъ�׶Σ����������Ъ�׶εĳ�����ͨ�������˶�Ա�����������Ƶġ��ؼ�һ���ǣ��˶�ԱҪ����δ��ȫ�ָ�����ʱ�㿪ʼ��һ����ϰ����ѵ�����ò�ͬ��DIRT��Distance, Interval, Rest and Time���ĸ�������ϣ��ﵽ��ͬЧ����
+两次练习之间有一个严格控制休息时间的间歇阶段，并且这个间歇阶段的长短是通过测量运动员的心率来控制的。关键一点是，运动员要在尚未完全恢复体力时便开始下一组练习。在训练中用不同的DIRT（Distance, Interval, Rest and Time）四个因素组合，达到不同效果。
 </para>
 <para>
-��Ϊ���ࡰ���ټ�Ъ��ѵ�����������ټ�Ъ��ѵ��������Ϣʱ������ϰʱ��ı�������1��Ϊ�����ټ�Ъ��ѵ�����������ڳ����ٶȵ���������֮Ϊ�����ټ�Ъ��ѵ��������չ������
+分为两类“慢速间歇性训练”、“快速间歇性训练”。休息时间与练习时间的比例大于1的为“快速间歇性训练”，侧重于持续速度的培养；反之为“慢速间歇性训练”，发展耐力。
 </para>
 <para>
-�ŵ㣺��DIRT�ĵ��ڣ�ʹ�ø�ѵ�����ʺ���ÿ���ˣ�����Ȥζ�ԣ�ʹ�˶�Ա�е����󸺺ɣ��кܺõļ������á�
-</para>
-</listitem>
-<listitem>
-<para>
-Ŀ���趨ѵ��
-</para>
-<para>
-�ֽ����ظ�ѵ���������չ涨��ʱ�䣬����ظ�ĳһ����ķ�������Ъʱ��Ŀ���Ҫʹ���������ʻ����ָ���ѵ��ǿ�ȸߣ����ظ������١�
-</para>
-<para>
-Ŀ���趨ѵ��ѵ��ǿ�Ⱥܴ���˰���Ҫ��ɢ����Ҫ���ͳɼ���
+优点：对DIRT的调节，使得该训练法适合于每个人；更具趣味性；使运动员承担更大负荷，有很好的激励作用。
 </para>
 </listitem>
 <listitem>
 <para>
-�̳�ѵ����
+目标设定训练
 </para>
 <para>
-ȫ��������ٶ�ѵ���ķ�������Ŀ���趨ѵ����ͬ�����ڶ̳�ѵ�����ľ������һЩ��������25�ף�������Ҫȫ���Σ���ϰ֮��ļ�ЪҪ���������������ʸ�Ҫ�ָ����ӽ�����ʱ��ˮƽ��������ߺ͸Ľ����ټ�����һ�ֺ÷�����
+又叫做重复训练法。按照规定的时间，多次重复某一距离的方法。间歇时间的控制要使呼吸和心率基本恢复。训练强度高，但重复次数少。
 </para>
 <para>
-���磺������ѵ������������һ�˿�Ľ�����һ�����ģ��������˿�Ľ����������ģ�ֱ�����˿�Ľ����������ġ���ѵ����ͬ���ʺ����κ��ˡ�
+目标设定训练训练强度很大，因此安排要分散，不要积劳成疾。
+</para>
+</listitem>
+<listitem>
+<para>
+短冲训练法
+</para>
+<para>
+全力以最高速度训练的方法。于目标设定训练不同点在于短冲训练法的距离更短一些（不超过25米），而且要全力游，练习之间的间歇要更常，呼吸和心率更要恢复到接近安静时的水平。对于提高和改进快速技术是一种好方法。
+</para>
+<para>
+例如：“梯形训练法”——游一趟快的紧接着一趟慢的，再游两趟快的紧跟两趟慢的，直到四趟快的紧跟四趟满的。该训练法同样适合于任何人。
 </para>
 </listitem>
 </itemizedlist>
 <note>
 <para>
-ѵ���ƻ������ɲο�<ulink url="http://www.usms.org">������Ӿ���ϻ���վ</ulink>��
+训练计划范例可参考<ulink url="http://www.usms.org">美国游泳联合会网站</ulink>。
 </para>
 </note>
 
 <para>
-���ǵ�ѵ����
+我们的训练法
 </para>
-<segmentedlist><title>ѵ����</title>
-<segtitle>���</segtitle>
-<segtitle>ѵ����</segtitle>
-<seglistitem><seg>����1</seg><seg>200��Ӧ���̾�����ԣ�1000����</seg></seglistitem>
-<seglistitem><seg>����1</seg><seg>200��Ӧ���̾�����ԣ�50��+50����100��+100����200��+200����200�ָ�</seg></seglistitem>
-<seglistitem><seg>���</seg><seg>�����Σ���Ȧ��������������Ǹ��취��50�׻�һ��Ӿ����8����Ӿ����һ����400�ף�...</seg></seglistitem>
+<segmentedlist><title>训练法</title>
+<segtitle>编号</segtitle>
+<segtitle>训练法</segtitle>
+<seglistitem><seg>持续1</seg><seg>200适应，短距离测试，1000持续</seg></seglistitem>
+<seglistitem><seg>变速1</seg><seg>200适应，短距离测试，50快+50慢，100快+100慢，200快+200慢，200恢复</seg></seglistitem>
+<seglistitem><seg>变道</seg><seg>持续游，数圈经常数错，变道是个办法：50米换一次泳道，8个深泳道来一遍是400米，...</seg></seglistitem>
 </segmentedlist>
 
 </sect1>
 
-<sect1 id="record"><title>��Ӿ��¼</title>
+<sect1 id="record"><title>游泳记录</title>
 
-<table frame='all'><title>ȫ��ҵ����Ӿ�������ӱ�׼��������25��34����</title>
+<table frame='all'><title>全国业余游泳锻炼男子标准——男子25至34岁组</title>
 <tgroup cols='17' align='left' colsep='1' rowsep='1'>
 <colspec colwidth='3*' colname='c1'/>
 <colspec  colwidth='1*' colname='c2'/>
@@ -167,99 +167,99 @@ maintain using DocBook format.
 <thead>
 <row>
   <entry align="center"></entry>
-  <entry namest="c2"  nameend="c3"  align="center">һ�� ����</entry>
-  <entry namest="c4"  nameend="c5"  align="center">���� ����</entry>
-  <entry namest="c6"  nameend="c7"  align="center">���� ����</entry>
-  <entry namest="c8"  nameend="c9"  align="center">�Ķ� ����</entry>
-  <entry namest="c10" nameend="c11" align="center">���</entry>
-  <entry namest="c12" nameend="c13" align="center">����</entry>
-  <entry namest="c14" nameend="c15" align="center">�߶�</entry>
-  <entry namest="c16" nameend="c17" align="center">�˶�</entry>
+  <entry namest="c2"  nameend="c3"  align="center">一段 飞鱼</entry>
+  <entry namest="c4"  nameend="c5"  align="center">二段 鲸鱼</entry>
+  <entry namest="c6"  nameend="c7"  align="center">三段 海豚</entry>
+  <entry namest="c8"  nameend="c9"  align="center">四段 海豹</entry>
+  <entry namest="c10" nameend="c11" align="center">五段</entry>
+  <entry namest="c12" nameend="c13" align="center">六段</entry>
+  <entry namest="c14" nameend="c15" align="center">七段</entry>
+  <entry namest="c16" nameend="c17" align="center">八段</entry>
 </row>
 <row>
   <entry align="center"></entry>
-  <entry align="center">50�׳�</entry>
-  <entry align="center">25�׳�</entry>
-  <entry align="center">50�׳�</entry>
-  <entry align="center">25�׳�</entry>
-  <entry align="center">50�׳�</entry>
-  <entry align="center">25�׳�</entry>
-  <entry align="center">50�׳�</entry>
-  <entry align="center">25�׳�</entry>
-  <entry align="center">50�׳�</entry>
-  <entry align="center">25�׳�</entry>
-  <entry align="center">50�׳�</entry>
-  <entry align="center">25�׳�</entry>
-  <entry align="center">50�׳�</entry>
-  <entry align="center">25�׳�</entry>
-  <entry align="center">50�׳�</entry>
-  <entry align="center">25�׳�</entry>
+  <entry align="center">50米池</entry>
+  <entry align="center">25米池</entry>
+  <entry align="center">50米池</entry>
+  <entry align="center">25米池</entry>
+  <entry align="center">50米池</entry>
+  <entry align="center">25米池</entry>
+  <entry align="center">50米池</entry>
+  <entry align="center">25米池</entry>
+  <entry align="center">50米池</entry>
+  <entry align="center">25米池</entry>
+  <entry align="center">50米池</entry>
+  <entry align="center">25米池</entry>
+  <entry align="center">50米池</entry>
+  <entry align="center">25米池</entry>
+  <entry align="center">50米池</entry>
+  <entry align="center">25米池</entry>
 </row>
 </thead>
 <tbody>
-<row><entry>50������Ӿ </entry><entry>37.00  </entry><entry>37.00  </entry><entry>39.00  </entry><entry>39.00  </entry><entry>42.00  </entry><entry>42.00  </entry><entry>47.00  </entry><entry>47.00  </entry><entry>55.00  </entry><entry>55.00  </entry><entry>1:05.00</entry><entry>1:05.00</entry><entry>1:15.00</entry><entry>1:15.00</entry><entry>1:35.00</entry><entry> 1:35.00</entry></row>
-<row><entry>100������Ӿ</entry><entry>1:24.00</entry><entry>1:23.00</entry><entry>1:28.00</entry><entry>1:27.00</entry><entry>1:38.00</entry><entry>1:37.00</entry><entry>1:44.00</entry><entry>1:43.00</entry><entry>2:00.00</entry><entry>1:59.00</entry><entry>2:20.00</entry><entry>2:19.00</entry><entry>2:40.00</entry><entry>2:39.00</entry><entry>3:20.00</entry><entry> 3:19.00</entry></row>
-<row><entry>200������Ӿ</entry><entry>3:03.00</entry><entry>3:01.00</entry><entry>3:11.00</entry><entry>3:09.00</entry><entry>3:31.00</entry><entry>3:29.00</entry><entry>3:43.00</entry><entry>3:41.00</entry><entry>4:15.00</entry><entry>4:13.00</entry><entry>4:55.00</entry><entry>4:53.00</entry><entry>5:35.00</entry><entry>5:33.00</entry><entry>6:55.00</entry><entry> 6:53.00</entry></row>
-<row><entry>400������Ӿ</entry><entry>6:26.00</entry><entry>6:23.00</entry><entry>6:42.00</entry><entry>6:39.00</entry><entry>7:22.00</entry><entry>7:19.00</entry><entry>7:46.00</entry><entry>7:43.00</entry><entry>8:50.00</entry><entry>8:47.00</entry><entry>10:10.0</entry><entry>10:07.0</entry><entry>11:30.0</entry><entry>11:27.0</entry><entry>14:10.0</entry><entry>14:07.00</entry></row>
-<row><entry>50����Ӿ   </entry><entry>46.00  </entry><entry>46.00  </entry><entry>48.00  </entry><entry>48.00  </entry><entry>51.00  </entry><entry>51.00  </entry><entry>56.00  </entry><entry>56.00  </entry><entry>1:04.00</entry><entry>1:04.00</entry><entry>1:14.00</entry><entry>1:14.00</entry><entry>1:29.00</entry><entry>1:29.00</entry><entry>1:49.00</entry><entry> 1:49.00</entry></row>
-<row><entry>100����Ӿ  </entry><entry>1:42.00</entry><entry>1:41.00</entry><entry>1:46.00</entry><entry>1:45.00</entry><entry>1:52.00</entry><entry>1:51.00</entry><entry>2:02.00</entry><entry>2:01.00</entry><entry>2:18.00</entry><entry>2:17.00</entry><entry>2:38.00</entry><entry>2:37.00</entry><entry>3:08.00</entry><entry>3:07.00</entry><entry>3:48.00</entry><entry> 3:47.00</entry></row>
-<row><entry>200����Ӿ  </entry><entry>3:39.00</entry><entry>3:37.00</entry><entry>3:47.00</entry><entry>3:45.00</entry><entry>3:59.00</entry><entry>3:57.00</entry><entry>4:19.00</entry><entry>4:17.00</entry><entry>4:51.00</entry><entry>4:49.00</entry><entry>5:31.00</entry><entry>5:29.00</entry><entry>6:31.00</entry><entry>6:29.00</entry><entry>7:51.00</entry><entry> 7:49.00</entry></row>
-<row><entry>50����Ӿ   </entry><entry>45.00  </entry><entry>45.00  </entry><entry>47.00  </entry><entry>47.00  </entry><entry>50.00  </entry><entry>50.00  </entry><entry>55.00  </entry><entry>55.00  </entry><entry>1:03.00</entry><entry>1:03.00</entry><entry>1:13.00</entry><entry>1:13.00</entry><entry>1:28.00</entry><entry>1:28.00</entry><entry>1:48.00</entry><entry> 1:48.00</entry></row>
-<row><entry>50�׵�Ӿ   </entry><entry>44.00  </entry><entry>44.00  </entry><entry>46.00  </entry><entry>46.00  </entry><entry>49.00  </entry><entry>49.00  </entry><entry>54.00  </entry><entry>54.00  </entry><entry>1:02.00</entry><entry>1:02.00</entry><entry>1:12.00</entry><entry>1:12.00</entry><entry>1:27.00</entry><entry>1:27.00</entry><entry>1:47.00</entry><entry> 1:47.00</entry></row>
+<row><entry>50米自由泳 </entry><entry>37.00  </entry><entry>37.00  </entry><entry>39.00  </entry><entry>39.00  </entry><entry>42.00  </entry><entry>42.00  </entry><entry>47.00  </entry><entry>47.00  </entry><entry>55.00  </entry><entry>55.00  </entry><entry>1:05.00</entry><entry>1:05.00</entry><entry>1:15.00</entry><entry>1:15.00</entry><entry>1:35.00</entry><entry> 1:35.00</entry></row>
+<row><entry>100米自由泳</entry><entry>1:24.00</entry><entry>1:23.00</entry><entry>1:28.00</entry><entry>1:27.00</entry><entry>1:38.00</entry><entry>1:37.00</entry><entry>1:44.00</entry><entry>1:43.00</entry><entry>2:00.00</entry><entry>1:59.00</entry><entry>2:20.00</entry><entry>2:19.00</entry><entry>2:40.00</entry><entry>2:39.00</entry><entry>3:20.00</entry><entry> 3:19.00</entry></row>
+<row><entry>200米自由泳</entry><entry>3:03.00</entry><entry>3:01.00</entry><entry>3:11.00</entry><entry>3:09.00</entry><entry>3:31.00</entry><entry>3:29.00</entry><entry>3:43.00</entry><entry>3:41.00</entry><entry>4:15.00</entry><entry>4:13.00</entry><entry>4:55.00</entry><entry>4:53.00</entry><entry>5:35.00</entry><entry>5:33.00</entry><entry>6:55.00</entry><entry> 6:53.00</entry></row>
+<row><entry>400米自由泳</entry><entry>6:26.00</entry><entry>6:23.00</entry><entry>6:42.00</entry><entry>6:39.00</entry><entry>7:22.00</entry><entry>7:19.00</entry><entry>7:46.00</entry><entry>7:43.00</entry><entry>8:50.00</entry><entry>8:47.00</entry><entry>10:10.0</entry><entry>10:07.0</entry><entry>11:30.0</entry><entry>11:27.0</entry><entry>14:10.0</entry><entry>14:07.00</entry></row>
+<row><entry>50米蛙泳   </entry><entry>46.00  </entry><entry>46.00  </entry><entry>48.00  </entry><entry>48.00  </entry><entry>51.00  </entry><entry>51.00  </entry><entry>56.00  </entry><entry>56.00  </entry><entry>1:04.00</entry><entry>1:04.00</entry><entry>1:14.00</entry><entry>1:14.00</entry><entry>1:29.00</entry><entry>1:29.00</entry><entry>1:49.00</entry><entry> 1:49.00</entry></row>
+<row><entry>100米蛙泳  </entry><entry>1:42.00</entry><entry>1:41.00</entry><entry>1:46.00</entry><entry>1:45.00</entry><entry>1:52.00</entry><entry>1:51.00</entry><entry>2:02.00</entry><entry>2:01.00</entry><entry>2:18.00</entry><entry>2:17.00</entry><entry>2:38.00</entry><entry>2:37.00</entry><entry>3:08.00</entry><entry>3:07.00</entry><entry>3:48.00</entry><entry> 3:47.00</entry></row>
+<row><entry>200米蛙泳  </entry><entry>3:39.00</entry><entry>3:37.00</entry><entry>3:47.00</entry><entry>3:45.00</entry><entry>3:59.00</entry><entry>3:57.00</entry><entry>4:19.00</entry><entry>4:17.00</entry><entry>4:51.00</entry><entry>4:49.00</entry><entry>5:31.00</entry><entry>5:29.00</entry><entry>6:31.00</entry><entry>6:29.00</entry><entry>7:51.00</entry><entry> 7:49.00</entry></row>
+<row><entry>50米仰泳   </entry><entry>45.00  </entry><entry>45.00  </entry><entry>47.00  </entry><entry>47.00  </entry><entry>50.00  </entry><entry>50.00  </entry><entry>55.00  </entry><entry>55.00  </entry><entry>1:03.00</entry><entry>1:03.00</entry><entry>1:13.00</entry><entry>1:13.00</entry><entry>1:28.00</entry><entry>1:28.00</entry><entry>1:48.00</entry><entry> 1:48.00</entry></row>
+<row><entry>50米蝶泳   </entry><entry>44.00  </entry><entry>44.00  </entry><entry>46.00  </entry><entry>46.00  </entry><entry>49.00  </entry><entry>49.00  </entry><entry>54.00  </entry><entry>54.00  </entry><entry>1:02.00</entry><entry>1:02.00</entry><entry>1:12.00</entry><entry>1:12.00</entry><entry>1:27.00</entry><entry>1:27.00</entry><entry>1:47.00</entry><entry> 1:47.00</entry></row>
 </tbody>
 </tgroup>
 </table>
 </sect1>
 
-<sect1 id="facility"><title>��Ӿ�豸</title>
+<sect1 id="facility"><title>游泳设备</title>
 <para>
-�õĳɼ��벻���豸
+好的成绩离不开设备
 </para>
 <itemizedlist>
 <listitem>
 <para>
-�˶��ֱ�
+运动手表
 </para>
 <para>
-��֪����ʲô�ù����˶��ֱ����һ��ǲ��������ջ���CASIO PROTREK����ˮ100M��
+不知道有什么好国产运动手表，我还是不得以买日货。CASIO PROTREK，防水100M。
 </para>
 <para>
-����Ҫ��ˮ100�ף����ַ�ˮ50�׵�ֻ������ϴ�ֵ�ʱ����ժ�������ѡ���˵��ˮ��Ҫÿ������ȥ������ˮ��Ȧ���һ�û������
-</para>
-</listitem>
-<listitem>
-<para>
-Ӿ��
-</para>
-<para>
-�����۾����������Ӿ������õ�Ӿ�������Ϲ�ӡ�����һ�㲻̫�ɿ��������¾�ʧЧ�ˣ���Һ�ǲ����ķ�������Ϳ���£����ڱ��漴�ɡ�
+至少要防水100米，那种防水50米的只不过是洗手的时候不用摘下来而已。据说防水表要每个两年去更换防水橡胶圈，我还没换过。
 </para>
 </listitem>
 <listitem>
 <para>
-�ǿ�
+泳镜
 </para>
 <para>
-��Ӿ�ص�����ˮ�����ҵı���ʹ�಻��������ȥ�򰺹����и����õ����ƹ����Ա��׵���Ǽ������Բ����ñǼл��㡣
-</para>
-<para>
-�轺�ǼбȽϺá�ע����ˮʱ����ò�Ҫ��������ñ�ˮ��ò�֪�ܵ������ˡ�
+近视眼就买带度数的泳镜，免得到泳池里成了瞎子。防雾一般不太可靠，几个月就失效了，唾液是不错的防雾剂，涂（吐）在内表面即可。
 </para>
 </listitem>
 <listitem>
 <para>
-Ӿñ
+鼻卡
 </para>
 <para>
-��Ҫ�Ǳ���ͷ����ˮ�е��������˺���������������������Σ��ӿ����١���һ���𽺵�Ӿñ�Ƚ������
+游泳池的消毒水，让我的鼻子痛苦不堪，与其去买昂贵又有副作用的治疗过敏性鼻炎的喷鼻剂，绝对不如用鼻夹划算。
+</para>
+<para>
+硅胶鼻夹比较好。注意跳水时，最好不要带啊，免得被水冲得不知跑到哪里了。
 </para>
 </listitem>
 <listitem>
 <para>
-Ӿ��Ӿ��
+泳帽
 </para>
 <para>
-Ҫ������ɫ��ŷ����Ҫע��ɷ֡�
+主要是保护头发被水中的消毒剂伤害，还能增加身体的流线形，加快游速。买一个橡胶的泳帽比较舒服。
+</para>
+</listitem>
+<listitem>
+<para>
+泳衣泳裤
+</para>
+<para>
+要买深颜色的欧，还要注意成分。
 </para>
 </listitem>
 </itemizedlist>
